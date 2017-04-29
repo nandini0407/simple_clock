@@ -1,0 +1,42 @@
+body {
+  margin: auto;
+  padding: 0 auto;
+  border: 0;
+  text-align: center;
+  vertical-align: baseline;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+.clock {
+  margin: inherit;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.time {
+  display: flex;
+  justify-content: space-around;
+}
+
+.hour {
+
+}
+
+.min {
+
+}
+
+.sec {
+
+}
+
+.ampm {
+
+}
